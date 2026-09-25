@@ -107,8 +107,8 @@ dvf-lakehouse/
 ## 🗺️ Feuille de route
 
 - [x] Mise en place du catalogue, des schémas et des volumes
-- [ ] Ingestion Bronze incrémentale (Auto Loader)
-- [ ] Couche Silver : typage, nettoyage, clé de mutation, dédoublonnage
+- [x] Ingestion Bronze incrémentale (Auto Loader)
+- [x] Couche Silver : typage, nettoyage, clé de mutation, dédoublonnage
 - [ ] Couche Gold : prix au m² par commune / département / mois
 - [ ] Dashboard AI/BI
 - [ ] Orchestration via un Databricks Job
